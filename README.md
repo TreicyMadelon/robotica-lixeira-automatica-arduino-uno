@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/31856877/README.1.md)
 # Lixeira Automática com Acionamento por Proximidade
 
 Projeto de robótica de baixo custo
